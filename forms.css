@@ -1,0 +1,108 @@
+body { 
+    background: white linear-gradient(180deg, #5cff56, #da7829);
+}
+
+#estimate {
+    font-size: 1.5em;
+}
+
+#company_name {
+    text-align: left;
+    text-transform: capitalize;
+}
+
+#name {
+    font-size: 18px;
+    padding-bottom: -1000px;
+    margin-bottom: -1px;
+    ;
+}
+
+#star {
+    color: red;
+}
+
+#company {
+    padding-right: 30em;
+    padding-top: -10px;
+    padding-right: 30em;
+    border-top: 2px;
+    border-right: 2px;
+    border-bottom: 2px;
+    border-left: 2px;
+    font-size: 20px;  
+}
+#mail {
+    font-size: 18px;
+    font-weight: 1px;
+    margin-bottom: -1px;
+}
+.my_email {
+    padding-right: 30em;
+    border-top: 2px;
+    border-right: 2px;
+    border-bottom: 2px;
+    border-left: 2px;
+    font-size: 20px;
+}
+#calenda {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+#start_end {
+    font-size: 25px;
+    margin-top: -45px;
+    border-top: 2px;
+    border-right: 2px;
+    border-bottom: 2px;
+    border-left: 2px;
+}
+
+
+#advert {
+    font-size: 1.3em;
+    text-transform: capitalize;
+}
+
+#size {
+    font-size: 23px;
+    text-transform: capitalize;
+}
+
+#adsense {
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-top: -20px;
+}
+
+#advert{
+}
+
+#website{
+
+   font-size: 20px;
+    text-transform: capitalize;
+    margin-top: -20px;
+}
+
+.ads{
+    
+    padding-right: 30em;
+    border-top: 2px;
+    border-right: 2px;
+    border-bottom: 2px;
+    border-left: 2px;
+    font-size: 20px;
+    margin-bottom: ;
+
+}
+
+#review{
+font-size: 25px;
+text-transform: capitalize;
+}
+#comments{
+
+
+
+}
