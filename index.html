@@ -11,7 +11,7 @@
 </head>
 
 <body>
-
+<div>
     <div>
         <p id="estimate">Advertising Estimate</p>
         <p id="name">Name / Company name <sup id="star">*</sup></p>
@@ -23,11 +23,11 @@
     </div>
     <div>
         <p id="calenda">Ad start date <sup id="star">*</sup></p>
-        <input type="text" name="start_date" id="start_end">
+        <input type="date" name="start_date" id="start_end">
     </div>
     <div>
         <p id="calenda">Ad end date <sup id="star"> *</sup></p>
-        <input type="text" name="end_date" id="start_end">
+        <input type="date" name="end_date" id="start_end">
     </div>
             <P id="size">advertising size (pixels)</P>
         </div>
@@ -71,9 +71,12 @@
         <input type="text" name="advertise" class="ads">
     </div>
 </div>
-    <p id="review">comments</p>
-    <input type="text" name="comments" id="comment">
+<div>
 
+    <p id="review">comments</p>
+    <input type="text" name="text_box" class="comment">
+</div>
+</div>
 </body>
 
 </html>
